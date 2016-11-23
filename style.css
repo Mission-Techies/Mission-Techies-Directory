@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-h1,h2{
-font-family: 'Work Sans', sans-serif;
-text-transform: uppercase;
-}
-=======
 .employees {
   color: black;
   list-style: none;
 }
 .employees img {
-  width:100px;
-  height:100px;
+  width:200px;
+  height:200px;
+  border-radius: 100px
 }
->>>>>>> 3cb508da54e473fb433b48cac735727af9329e0e

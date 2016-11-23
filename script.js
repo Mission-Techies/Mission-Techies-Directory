@@ -1,3 +1,4 @@
+/*global $*/
 var api_key = 'keykHpW6aYRPLUkNi';
 var employeeRecords =  'https://api.airtable.com/v0/app8L37OgKQFawcvR/Employee%20Directory?api_key=' + api_key;
 
