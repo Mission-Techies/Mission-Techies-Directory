@@ -1,1 +1,8 @@
-
+.employees {
+  color: black;
+  list-style: none;
+}
+.employees img {
+  width:100px;
+  height:100px;
+}
