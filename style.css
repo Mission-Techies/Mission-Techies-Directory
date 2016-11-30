@@ -1,11 +1,10 @@
-@import 'https://fonts.googleapis.com/css?family=Arimo';
-body {
-  font-family: "Arimo", sans-serif;
-  font-size: 16px;
-}
+
 .employees {
   color: black;
   list-style: none;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  
   
   
 }
