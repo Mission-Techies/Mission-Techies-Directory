@@ -9,7 +9,6 @@
 .employees img {
   width:200px;
   height:200px;
-  border-radius: 100px
-  margin:auto;
+  border-radius: 50%;
   display:block;
 }
