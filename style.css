@@ -4,9 +4,10 @@
   list-style: none;
   font-family: "Arimo", sans-serif;
   font-size: 16px;
-  
-  
-  
+  margin-left: 200px;
+  margin-right:200px;
+  margin-top:80px;
+  margin-bottom:80px;
 }
 .employees img {
   width:200px;
