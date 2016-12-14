@@ -1,7 +1,14 @@
+<<<<<<<<< saved version
 <<<<<<< HEAD
 
 =======
 @import 'https://fonts.googleapis.com/css?family=Arimo';
+=========
+
+@import 'https://fonts.googleapis.com/css?family=Arimo';
+
+}
+>>>>>>>>> local version
 
 }
 >>>>>>> fc3db06fd95ef02a5ab2b73796dfab6936ab4a0e
@@ -10,14 +17,28 @@
   list-style: none;
   font-family: "Arimo", sans-serif;
   font-size: 16px;
+<<<<<<<<< saved version
 <<<<<<< HEAD
+<<<<<<< HEAD
+=========
+<<<<<<< HEAD
+>>>>>>>>> local version
   margin:auto;
   text-align:center;
+<<<<<<<<< saved version
 =======
   padding: 44px;
+=======
+  padding: 100px;
+>>>>>>> 9cb8667e9801c8f5d0e09711b99d2291f30ac7e4
   
   
 >>>>>>> fc3db06fd95ef02a5ab2b73796dfab6936ab4a0e
+=========
+=======
+  padding: 44px;
+  
+>>>>>>>>> local version
 }
 .employees img {
   width:200px;
