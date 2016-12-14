@@ -11,8 +11,14 @@
   
 }
 .employees img {
+  display: block;
+  margin: auto;
   width:200px;
   height:200px;
   border-radius: 100px
+<<<<<<< HEAD
   margin:auto;
 }
+=======
+}
+>>>>>>> 8c859a142683b458f63306afdb7c628ed85edc9a
