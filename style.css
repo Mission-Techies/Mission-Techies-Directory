@@ -1,11 +1,23 @@
+<<<<<<< HEAD
 
+=======
+@import 'https://fonts.googleapis.com/css?family=Arimo';
+
+}
+>>>>>>> fc3db06fd95ef02a5ab2b73796dfab6936ab4a0e
 .employees {
   color: black;
   list-style: none;
   font-family: "Arimo", sans-serif;
   font-size: 16px;
+<<<<<<< HEAD
   margin:auto;
   text-align:center;
+=======
+  padding: 44px;
+  
+  
+>>>>>>> fc3db06fd95ef02a5ab2b73796dfab6936ab4a0e
 }
 .employees img {
   width:200px;
